@@ -1,0 +1,6 @@
+C:\Users\TechCare\Desktop\HOCONGNHO_BaiKiemTraHDT\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+C:\Users\TechCare\Desktop\HOCONGNHO_BaiKiemTraHDT\QLSinhVien\obj\Debug\QLSinhVien.csprojResolveAssemblyReference.cache
+C:\Users\TechCare\Desktop\HOCONGNHO_BaiKiemTraHDT\QLSinhVien\bin\Debug\QLSinhVien.exe
+C:\Users\TechCare\Desktop\HOCONGNHO_BaiKiemTraHDT\QLSinhVien\bin\Debug\QLSinhVien.pdb
+C:\Users\TechCare\Desktop\HOCONGNHO_BaiKiemTraHDT\QLSinhVien\obj\Debug\QLSinhVien.exe
+C:\Users\TechCare\Desktop\HOCONGNHO_BaiKiemTraHDT\QLSinhVien\obj\Debug\QLSinhVien.pdb
